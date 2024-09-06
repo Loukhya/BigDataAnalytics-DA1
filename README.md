@@ -1,1 +1,2 @@
-# BigDataAnalytics-DA1
+Hadoop Map reduce program in this project named Job_Offer calculator, process the student  CGPA data .  This Program classifies students into three different job package categories based on their academic performance, specifically focusing on their Cumulative Grade Point Average (CGPA) and the number of certifications they have obtained. Each line of the output represents a student's ID, name, and the corresponding job package category.
+
